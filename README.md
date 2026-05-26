@@ -1,0 +1,2 @@
+# Esp32_S3-RGB-lights-starting_up-
+This is my first attempt learning microcontrollers coding
