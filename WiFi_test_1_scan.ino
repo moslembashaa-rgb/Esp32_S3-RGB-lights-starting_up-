@@ -22,7 +22,7 @@ void setup() {
   WiFi.disconnect();
   tft.setTextColor(ST77XX_WHITE);
   tft.setCursor(10,10);
-  tft.println("SCANNER READY");
+  tft.println("WIFI SCANNER READY");
   
 }
 
